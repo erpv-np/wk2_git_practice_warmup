@@ -10,3 +10,5 @@ Working in DeveloperA branch - epv
 Working in DeveloperB branch - YWK
 
 Devops Lesson Every Tuesday. - epv
+
+Working with GIT UI - YWK
