@@ -6,3 +6,4 @@ Project A - epv
 
 Project - Kelvin
 Working in DeveloperA branch - epv
+Devops Lesson Every Tuesday. - epv
