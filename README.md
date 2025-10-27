@@ -7,5 +7,6 @@ Project A - epv
 Project - Kelvin
 Working in DeveloperA branch - epv
 
-Wirking in DeveloperB branch - YWK
+Working in DeveloperB branch - YWK
 
+Devops Lesson Every Tuesday. - epv
